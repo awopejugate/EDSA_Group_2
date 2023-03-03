@@ -1,0 +1,3 @@
+# This is the README.md file for the EDSA_Group_2 training assignments...
+
+# The repo will contain all the students assignment
