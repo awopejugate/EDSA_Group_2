@@ -1,0 +1,63 @@
+body{
+   background-color: rgba(30, 108, 250, 0.5);
+}
+#upSection{
+    background-color: rgb(11, 25, 154);
+    position: sticky;
+    top: 0px;
+    display: block;
+}
+#edsa {
+    max-height: 150px;
+    max-width: 200px;
+}
+#tech {
+   /* position: relative;
+    top: 0px;
+    left: 0px;*/
+    max-height: 300px;
+    max-width: 250px;
+    margin-left:65%;
+}
+#downSection, #ind, #reg, #das {
+    text-align:center;
+    color:white;
+}
+center{
+    background-color: cornflowerblue;
+    height: 100px;
+    border-radius: 15px;
+}
+.pheader{
+    background-color: bisque;
+    height: 40px;
+    padding-left: 30px;
+    font-weight: bolder;
+}
+form{
+    margin-left: 60px;
+}
+input[type='text'], input[type='number'], input[type='email'], input[type='password'], select, input[type='file']{
+    width: 450px;
+    height: 40px;
+    border-radius: 15px;
+    margin-bottom:20px
+}
+label{
+    font-weight: bolder;
+    color: green;   
+}
+textarea{
+    width: 450px;
+    height: 100px;
+    border-radius: 15px;
+}
+button{
+    background-color: rgb(0, 166, 255);
+    height: 40px;
+    width: 200px;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    font-weight: bolder;
+}
