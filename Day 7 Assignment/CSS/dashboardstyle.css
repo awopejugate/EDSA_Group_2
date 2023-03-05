@@ -21,9 +21,9 @@ body{
  }
  /*style the tech4dev logo*/
  #tech {
-    /* position: relative;
+    position: relative;
      top: 0px;
-     left: 0px;*/
+     left: 0px;
      max-height: 300px;
      max-width: 250px;
      margin-left:65%;
