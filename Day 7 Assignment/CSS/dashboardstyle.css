@@ -1,3 +1,5 @@
+/*TECH4DEV EDSA GROUP 2 ASSIGNMENT*/
+/*this css file style the dashboard.html*/
 body{
     background-color: rgba(30, 108, 250, 0.5);
  }
@@ -12,10 +14,12 @@ body{
      text-align:center;
      color:white;
  }
+ /*style the edsa logo*/
  #edsa {
      max-height: 150px;
      max-width: 200px;
  }
+ /*style the tech4dev logo*/
  #tech {
     /* position: relative;
      top: 0px;
